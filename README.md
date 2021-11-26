@@ -1,7 +1,7 @@
 # Interactive Machine Learning: Poster Generator
 * MY Original Work - Use machine learning to create interactive graphical interfaces 
 <img
-     src="https://static.wixstatic.com/media/74ebd6_42be34a473594e09a5195af160d2ec7c~mv2.jpg/v1/fill/w_1880,h_1058,al_c,q_90/74ebd6_42be34a473594e09a5195af160d2ec7c~mv2.jpg">  
+     src="https://static.wixstatic.com/media/74ebd6_b1ff21e58b0b48caa7377b8b3dd17ae3~mv2.jpg/v1/fill/w_1480,h_925,al_c,q_90/74ebd6_b1ff21e58b0b48caa7377b8b3dd17ae3~mv2.webp">  
   
 ## Introduction
 
