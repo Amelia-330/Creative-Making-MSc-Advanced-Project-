@@ -41,7 +41,7 @@
 * [Part 2](https://github.com/Amelia-330/Creative-Making-MSc-Advanced-Project-/blob/main/Part%202%20-%20Technical%20part%20research.pdf)
   Technical part research
   
-* [Part 3]()
+* [Part 3](https://github.com/Amelia-330/Creative-Making-MSc-Advanced-Project-/blob/main/Part%203%20-%20Expansion%20of%20project%20specific%20ideas.pdf)
   Expansion of project specific ideas
 
 * [Part 4]()
