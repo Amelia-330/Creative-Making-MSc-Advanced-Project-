@@ -44,7 +44,7 @@
 * [Part 3](https://github.com/Amelia-330/Creative-Making-MSc-Advanced-Project-/blob/main/Part%203%20-%20Expansion%20of%20project%20specific%20ideas.pdf)
   Expansion of project specific ideas
 
-* [Part 4]()
+* [Part 4](https://github.com/Amelia-330/Creative-Making-MSc-Advanced-Project-/blob/main/Part%204%20project%20technical%20test%20%2B%20iteration.pdf)
   Project code test and iteration
 
    
