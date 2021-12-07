@@ -35,7 +35,7 @@
   
 ## My blog (Development process)
   
-* [Part 1]()
+* [Part 1](https://github.com/Amelia-330/Creative-Making-MSc-Advanced-Project-/blob/main/Part%201%20-%20The%20exploration%20of%20ideas.pdf)
   The exploration of ideas
 
 * [Part 2]()
