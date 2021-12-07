@@ -38,7 +38,7 @@
 * [Part 1](https://github.com/Amelia-330/Creative-Making-MSc-Advanced-Project-/blob/main/Part%201%20-%20The%20exploration%20of%20ideas.pdf)
   The exploration of ideas
 
-* [Part 2]()
+* [Part 2](https://github.com/Amelia-330/Creative-Making-MSc-Advanced-Project-/blob/main/Part%202%20-%20Technical%20part%20research.pdf)
   Technical part research
   
 * [Part 3]()
