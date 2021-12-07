@@ -30,7 +30,7 @@
 
 ## Project Thesis
  
-* [Interactive Machine Learning (IML) --- Application of Gesture Recognition in Visual Arts]()
+* [Interactive Machine Learning (IML) --- Application of Gesture Recognition in Visual Arts](https://github.com/Amelia-330/Creative-Making-MSc-Advanced-Project-/blob/main/Project%20thesis%20(JIATONG%20ZHU).pdf)
   
   
 ## My blog (Development process)
